@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arifahmior
 - 👀 I’m interested in seeking knowledge about data and explore technologies.
-- 🌱 I’m currently working as a Data Analyst
+- 🌱 I’m currently working as a Data Analytics
 - 🐱‍🏍 In a process of becoming a professional Data Expert
 
 <!---
